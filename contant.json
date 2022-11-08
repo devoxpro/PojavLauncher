@@ -1,42 +1,38 @@
 [
   {
   
-    "UrlTitel": "REVIEWSTeardown review",
-		"Urltexte": "The last time I truly played a voxel game was Cloudpunk, and if you’ve read that review then you’ll know my thoughts on how that went. Since then, voxel games have left a bad taste in my mouth. But Teardown? Now that was something that was sure to reset my interest in these types of games — a physics-based game with voxel graphics, something that didn’t look like a thrown-together mess and had some heart and character in it. I judged the book by its cover, and I was hooked./nSee, Teardown is a really fun game. It’s got a fun story as you make your way up through the world of demolition — your clientele is constantly going back and forth with each other as you (anonymously) do their dirty work, while police and investigators try to track down criminal enterprises with your help. There’s no emotional depth to the narrative, but that’s totally fine. I mean, this game is about blowing stuff up while your GPU smolders under your desk the story is a backdrop to the rest of the experience.",
-		"button_title": "",
+    "UrlTitel": "about PojavLauncher",
+		"Urltexte": "PojavLauncher (Minecraft: Java Edition For Android) is a tool that lets its users run the Java version of Minecraft from practically any Android device.\n\nPojavLauncher (Minecraft: Java Edition For Android) is really simple, as all you need to do is log in with your Mojang ID and press 'Login'. PojavLauncher (Minecraft: Java Edition For Android) is also compatible with Microsoft accounts, and it will let you store more than one account on its system and use mods to customize your gaming experience.\n\nOnce you're on the system, all you have to do is press play for Minecraft to run automatically.",
+
+	  "button_title": "",
 		"button_url": "https://www.google.com"
 
 	},
 	{
-		"UrlTitel": "gameplay",
-		"Urltexte": "what makes Teardown worth your time? Well, there are two major things you’ll do in this game: 1) blow everything up in Sandbox or 2) spend time in the campaign. Let’s tackle the campaign since we just spoke about the story. After every mission, you’ll receive an email from a client requesting your assistance with something. This might be destroying a monument so that your client can one-up their rival, collecting equipment for an investigation, or just helping out someone so their business can grow ahead of their competition. All of these involve breaking and entering in some capacity, and there’s a ton of semblance between each mission. For the ones where you need to collect something, the game will give you a time limit (typically about 60 seconds) to complete the objectives and get out. This could be stealing artwork, so you need to set up paths and routes to do so. You’ll spend a bit of time setting up your path, asking yourself a bunch of questions as you determine your strategy ",
-		"button_title": "",
-		"button_url": ""
-	},
-	{
-		"UrlTitel": "Liquify for Teardown",
-		"Urltexte": "Turn any solid shape into a liquid voxel mess! Press 'left mouse button' to liquify! Press 'R' to remove all liquid voxels! Press 'C' for zero-gravity fun! Now with an options menu on the bottom when you press 'Escape' to pause game!\n!!WARNING!!\nThis is an extremely laggy mod! When you liquify something, you turn 1 object into 100s or 1000s of objects ... of course it lags. This was just a fun coding exercise to use the new spawning system. I beg of you, I am tired of seeing these comments: 'this is cool but my PC crashed' or 'good mod but why is it 10fps'\nCredit goes to Bingle, who showcased this in a single video in the Official Teardown discord but was too lazy to finish his version and upload it to the workshop. A month has passed since he shared it there and I decided to reverse engineer his video to make this mod myself since I'm tired of waiting for such a cool thing..",
-		"button_title": "",
-		"button_url": ""
-	},
-	{
-		"UrlTitel": "TeaREX for Teardown",
-		"Urltexte": "It's a spawnable AI Tyrannosaurus Rex!\nHOW TO USE:\nOnce you are playing, hit the Esc/pause button and look for the Spawn option at the bottom. Click this to find a menu of available items and choose which one you want to put in the game.",
-		"button_title": "",
-		"button_url": ""
-
-	},
-	{
-		"UrlTitel": "Piano Fall Weapon for Teardown",
-		"Urltexte": "Have a need to classically drop a grand piano on top of all that annoys you? Well now you can! With this mod, you can even shower the destruction on all the pesky objects you find infuriating with a simple swing of a conducting baton.\nOr maybe you can peacefully enjoy playing on one, with your feels or with a sledgehammer.\n\nA classic joke as a mod, that complements Teardowns' destruction mechanics nicely.\n\nHow To Use\n\n\nPress and HOOOLD LMB to CHAAARGE the force of piano being dropped.\nPress LMB + RMB to shower grand pianos\nPress MMB to spawn grand piano\nPress Q to toggle between explosive and non-explosive pianos.",
+		"UrlTitel": "Where can I download earlier versions of PojavLauncher (Minecraft: Java Edition for Android)?",
+		"Urltexte": "From Uptodown. You can download earlier versions of PojavLauncher (Minecraft: Java Edition for Android) as well as the latest update from Uptodown, which will let you run the Minecraft Java version.",
 
 		"button_title": "",
 		"button_url": ""
 	},
 	{
-		"UrlTitel": "NextBot Base for Teardown",
-		"Urltexte": "NextBot will find you everywhere, destroy everything. Based on popular Gmod addon.\nYou can also use this as base for your nextbot mod.",
+		"UrlTitel": "Is PojavLauncher (Minecraft: Java Edition for Android) free?",
+		"Urltexte": "Yes, PojavLauncher (Minecraft: Java Edition for Android) is free. Simply download the APK from Uptodown to run the tool on your smartphone or Android operating system device.",
 
+		"button_title": "",
+		"button_url": ""
+	},
+	{
+		"UrlTitel": "Can I install PojavLauncher (Minecraft: Java Edition for Android) on PC?",
+		"Urltexte": "Yes, you can install PojavLauncher (Minecraft: Java Edition for Android) on PC. To do so, you will have to use an Android emulator for Windows and, once installed, you will be able to run the app on your computer.",
+
+		"button_title": "",
+		"button_url": ""
+
+	},
+	{
+		"UrlTitel": "How to play PojavLauncher with GameLoop on PC",
+		"Urltexte": "1. Download GameLoop from the official website, then run the exe file to install GameLoop\n2. Open GameLoop and search for 'PojavLauncher' , find PojavLauncher in the search results and click 'Install'\n3. Enjoy playing PojavLauncher on GameLoop",
 		"button_title": "",
 		"button_url": ""
 
